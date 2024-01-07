@@ -1,2 +1,2 @@
-# aplikasi-catatan-sederhana
+# aplikasi-catatan-sederhana menggunakan reactjs
  
